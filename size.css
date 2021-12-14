@@ -1,0 +1,61 @@
+/* navigation */
+#navbar{
+    flex-direction: column;
+
+}
+#navbar ul li a{
+    font-size: .8rem;
+    padding: 0px 7px;
+    padding-bottom: 8px;
+}
+/* #logo img{
+    display: block;
+} */
+
+/* home */
+#home{
+         height: 370px;
+         padding: 3px 68px;
+         
+}
+#home::before{
+    height:400px;
+}
+#home p{
+    font-size: 10px;
+}
+/* sevices*/
+#services{
+         flex-direction: column;
+}
+#services-box{
+
+}
+#deli,#break{
+    width: 220px;
+}
+
+/* Kclient */
+
+
+
+/* contact*/
+
+#clients{
+   flex: wrap;
+}
+#clients img{
+           width: 66px;
+           padding:2px 7px;
+}
+
+/* footer */
+
+.h-primary{
+    font-size: 25px;
+}
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+
+}
